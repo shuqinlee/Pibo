@@ -4,7 +4,7 @@
 
 最初为树莓派打造，但可以在任何设备上运行。
 
-English Version: https://github.com/shuqinlee/Pibo/blob/main/README.md.
+> English Version: https://github.com/shuqinlee/Pibo/blob/main/README.md.
 
 ---
 

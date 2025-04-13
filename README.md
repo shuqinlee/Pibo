@@ -4,7 +4,7 @@
 
 Originally crafted for Raspberry Pi, but runs anywhere.
 
-中文版本见 https://github.com/shuqinlee/Pibo/blob/main/README-CN.md.
+> 中文版本见 https://github.com/shuqinlee/Pibo/blob/main/README-CN.md.
 ---
 
 ## ✨ Features
